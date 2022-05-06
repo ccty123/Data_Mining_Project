@@ -13,10 +13,16 @@ We are encouraging you (with cash prizes!) to publish additional training data t
 data: 数据集目录，可从https://www.kaggle.com/competitions/nyc-taxi-trip-duration/data上下载train.csv和test.csv至该文件夹
 
 preprocessing.py: 数据预处理及特征工程
+
 feature.ipynb: 特征工程的jupyter文件记录
+
 main.ipynb: 数据可视化及GBDT和随机森林代码实现
+
 Stacking_lgb: LightGBM代码实现
+
 Stacking_xgb: XGBoost代码实现
+
 perception.ipynb: 全连接网络代码实现
+
 Line_stacking: LightGBM和XGBoost线性组合
 
