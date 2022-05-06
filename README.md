@@ -16,7 +16,7 @@ preprocessing.py: 数据预处理及特征工程
 
 feature.ipynb: 特征工程的jupyter文件记录
 
-main.ipynb: 数据可视化及GBDT和随机森林代码实现
+main.ipynb: GBDT和随机森林等代码实现
 
 Stacking_lgb: LightGBM代码实现
 
